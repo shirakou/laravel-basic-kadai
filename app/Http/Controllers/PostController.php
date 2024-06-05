@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class Postcontroller extends Controller
 {
     public function index() {
-        return 'こんにちは!';
+        return '投稿一覧';
     }
 }
